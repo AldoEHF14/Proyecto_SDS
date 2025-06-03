@@ -72,4 +72,4 @@ Al ejecutar el script, el menú ofrece tres opciones:
 ## 📝 Ejecución
 
 ```bash
-python proyecto.py
+python3 proyecto.py
