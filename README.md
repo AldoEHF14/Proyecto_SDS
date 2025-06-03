@@ -1,4 +1,4 @@
-# 🔐 Proyecto de Cifrado Vigenère + XOR
+# 🔐UEA_Sminario De Seguridad
 
 Este proyecto implementa un sistema de cifrado y descifrado basado en dos capas de seguridad:
 
