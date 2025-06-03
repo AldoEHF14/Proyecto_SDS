@@ -72,4 +72,4 @@ Al ejecutar el script, el menú ofrece tres opciones:
 ## 📝 Ejecución
 
 ```bash
-python cifrado_vigenere_xor.py
+python proyecto.py
