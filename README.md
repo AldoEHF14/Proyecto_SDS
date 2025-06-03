@@ -1,5 +1,3 @@
-# UEA_Seminario de Seguridad
-
 # 🔐 Proyecto de Cifrado Vigenère + XOR
 
 Este proyecto implementa un sistema de cifrado y descifrado basado en dos capas de seguridad:
