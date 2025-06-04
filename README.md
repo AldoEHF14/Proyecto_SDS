@@ -1,4 +1,4 @@
-# 🔐UEA_Seminario De Seguridad
+# 🔐UEA: Seminario De Seguridad
 
 Este proyecto implementa un sistema de cifrado y descifrado basado en dos capas de seguridad:
 
