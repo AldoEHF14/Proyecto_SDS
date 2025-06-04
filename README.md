@@ -47,7 +47,7 @@ Al ejecutar el script, el menú ofrece tres opciones:
 
 ---
 
-## 🧠 Estructura del código
+## 🧑‍💻 Estructura del código
 
 - `cifrado__vigenere()`: Aplica cifrado Vigenère.
 - `descifrado_vigenere()`: Aplica descifrado Vigenère.
