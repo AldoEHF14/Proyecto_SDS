@@ -66,8 +66,7 @@ Al ejecutar el script, el menú ofrece tres opciones:
 - Es importante no perder los archivos `key.txt` y `key2.txt` si deseas recuperar el mensaje original.
 
 ---
-
-## 📝 Ejecución
+## ▶️ Ejecución
 
 ```bash
 python3 proyecto.py
