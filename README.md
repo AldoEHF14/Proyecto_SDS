@@ -40,7 +40,7 @@ Al ejecutar el script, el menú ofrece tres opciones:
 
 ---
 
-### 🧮 Tecnologías y herramientas
+### 💻 Tecnologías y herramientas
 
 - Lenguaje: Python 3
 - Librerías estándar:
