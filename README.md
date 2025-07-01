@@ -40,15 +40,6 @@ Al ejecutar el script, el menú ofrece tres opciones:
 
 ---
 
-### 💻 Tecnologías y herramientas
-
-- Lenguaje: Python 3
-- Librerías estándar:
-  - `random`: para generar claves aleatorias.
-  - `os`: para la manipulación de archivos.
-
----
-
 ### 🧑‍💻 Estructura del código
 
 - `cifrado__vigenere()`: Aplica cifrado Vigenère.
