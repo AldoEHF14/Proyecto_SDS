@@ -40,18 +40,6 @@ Al ejecutar el script, el menú ofrece tres opciones:
 
 ---
 
-### 🧑‍💻 Estructura del código
-
-- `cifrado__vigenere()`: Aplica cifrado Vigenère.
-- `descifrado_vigenere()`: Aplica descifrado Vigenère.
-- `generar_clave_aleatoria_caracteres()`: Crea una clave aleatoria de longitud dada.
-- `Vigenere_XOR()`: Cifra el texto resultante con XOR.
-- `XOR_Vigenere()`: Descifra usando XOR.
-- `key_long()`: Extiende la clave al largo del texto.
-- `main()`: Interfaz de usuario y control del flujo principal.
-
----
-
 ### ⚠️ Consideraciones
 
 - El texto de entrada solo puede contener caracteres presentes en el alfabeto definido.
