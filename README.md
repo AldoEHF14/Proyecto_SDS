@@ -9,7 +9,7 @@ Este proyecto implementa un sistema de cifrado y descifrado basado en dos capas 
 
 ---
 
-### 🛠️ Funcionalidades principales
+### 🛠️ Funcionalidades
 
 - **Cifrado Vigenère** con una clave repetida para igualar la longitud del texto de entrada.
 - **Cifrado XOR** utilizando una clave aleatoria y operaciones a nivel de bits.
